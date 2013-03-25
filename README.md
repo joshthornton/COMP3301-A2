@@ -1,6 +1,9 @@
 COMP3301-A2
 ===========
 
+By Joshua Thornton and Joshua King
+----------------------------------
+
 COMP3301 Assignment Two
 
 Overview
